@@ -9,6 +9,11 @@ class Model{
             'lastName' => 'Cook'
         );
     }
+	public function getAbout(){
+		return array(
+			'about' => 'This is about MVC'
+		);
+	}
 }
 
 ?>
