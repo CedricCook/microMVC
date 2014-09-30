@@ -4,7 +4,7 @@ Introduction:
 
 This is a basic framework to get you started on any project, MVC style. 
 The classes are autoloaded using namespaces, so it requires PHP 5.3+
-======
+------
 #### Needs:
 1. PHP
 2. Stuff
